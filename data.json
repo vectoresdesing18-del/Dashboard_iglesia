@@ -1,0 +1,100 @@
+{
+  "predicadores": [
+    {
+      "id": 1,
+      "nombre": "Pastor Alejandro Gómez",
+      "tipo": "Local",
+      "email": "alejandro@iglesia.com",
+      "telefono": "+56912345678"
+    },
+    {
+      "id": 2,
+      "nombre": "Dra. Olivia Silva",
+      "tipo": "Invitada",
+      "email": "olivia.silva@email.com",
+      "telefono": "+56987654321"
+    },
+    {
+      "id": 3,
+      "nombre": "Hno. Carlos Mendoza",
+      "tipo": "Local",
+      "email": "carlos@iglesia.com",
+      "telefono": "+56955554444"
+    },
+    {
+      "id": 4,
+      "nombre": "Hna. María Castillo",
+      "tipo": "Local",
+      "email": "maria@iglesia.com",
+      "telefono": "+56999998888"
+    }
+  ],
+  "predicaciones": [
+    {
+      "id": 1,
+      "fecha": "2026-07-19",
+      "predicadorId": 1,
+      "libro": "Romanos",
+      "capitulo": "8",
+      "tema": "Vida en el Espíritu",
+      "hora": "10:00 AM"
+    },
+    {
+      "id": 2,
+      "fecha": "2026-07-26",
+      "predicadorId": 2,
+      "libro": "Efesios",
+      "capitulo": "2",
+      "tema": "Salvos por Gracia",
+      "hora": "10:00 AM"
+    },
+    {
+      "id": 3,
+      "fecha": "2026-08-02",
+      "predicadorId": 3,
+      "libro": "Génesis",
+      "capitulo": "12",
+      "tema": "El Llamado de Abram",
+      "hora": "10:00 AM"
+    },
+    {
+      "id": 4,
+      "fecha": "2026-08-09",
+      "predicadorId": 4,
+      "libro": "Salmos",
+      "capitulo": "23",
+      "tema": "El Buen Pastor",
+      "hora": "10:00 AM"
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "fecha": "2026-07-15",
+      "titulo": "Estudio Bíblico General",
+      "hora": "19:30",
+      "descripcion": "Estudio profundo de las cartas paulinas."
+    },
+    {
+      "id": 2,
+      "fecha": "2026-07-22",
+      "titulo": "Reunión de Oración",
+      "hora": "19:30",
+      "descripcion": "Intercesión por las familias y enfermos."
+    },
+    {
+      "id": 3,
+      "fecha": "2026-07-25",
+      "titulo": "Concierto de Jóvenes",
+      "hora": "18:00",
+      "descripcion": "Noche de adoración y comunión juvenil."
+    },
+    {
+      "id": 4,
+      "fecha": "2026-08-05",
+      "titulo": "Escuela Dominical Especial",
+      "hora": "09:00",
+      "descripcion": "Clase unificada para todos los adultos."
+    }
+  ]
+}
